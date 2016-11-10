@@ -102,6 +102,7 @@ public class PurchaseAPI {
 			return Response.status(201).entity("Error saving purchase!").build();
 		}
 	}
+	
 
 	// Metrics
 
