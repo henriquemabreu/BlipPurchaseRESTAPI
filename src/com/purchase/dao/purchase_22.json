@@ -1,0 +1,16 @@
+{
+	"purchases": 
+		[
+			{
+				"id":22,
+				"productType":"sapato",
+				"expires":"May 23, 3917 12:00:00 AM",
+				"details":
+					[
+						{"id":24,"description":"cor branca, tamanho 37","quantity":1,"value":70.0},
+						{"id":25,"description":"cor azul, tamanho 41","quantity":2,"value":70.0},
+						{"id":26,"description":"cor azul, tamanho 39","quantity":3,"value":70.0}
+					]
+			}
+		]
+}

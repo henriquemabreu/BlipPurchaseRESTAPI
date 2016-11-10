@@ -1,0 +1,16 @@
+{
+	"purchases": 
+		[
+			{
+				"id":32,
+				"productType":"bota",
+				"expires":"May 23, 3917 12:00:00 AM",
+				"details":
+					[
+						{"id":34,"description":"cor branca, tamanho 37","quantity":1,"value":70.0},
+						{"id":35,"description":"cor azul, tamanho 41","quantity":0,"value":70.0},
+						{"id":36,"description":"cor azul, tamanho 39","quantity":4,"value":70.0}
+					]
+			}
+		]
+}

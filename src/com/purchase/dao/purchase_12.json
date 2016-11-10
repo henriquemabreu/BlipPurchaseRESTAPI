@@ -1,0 +1,16 @@
+{
+	"purchases": 
+		[
+			{
+				"id":12,
+				"productType":"sapatilha",
+				"expires":"May 23, 2000 12:00:00 AM",
+				"details":
+					[
+						{"id":14,"description":"cor branca, tamanho 37","quantity":1,"value":70.0},
+						{"id":15,"description":"cor azul, tamanho 41","quantity":10,"value":0.0},
+						{"id":16,"description":"cor azul, tamanho 39","quantity":100,"value":300.0}
+					]
+			}
+		]
+}
